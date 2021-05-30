@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning full stack web development
 - 🌱 I’m currently learning php with laravel framework
 - 💞️ I’m looking to collaborate on development project
-- 📫 How to reach me by mail id:- bishtsonu25105@gmail.com
+- 📫 You can reach me by mail id:- bishtsonu25105@gmail.com
 
 <!---
 ankit-api/ankit-api is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
